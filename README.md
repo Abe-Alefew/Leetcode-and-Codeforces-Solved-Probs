@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2469-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2469-convert-the-temperature) |
 | [2491-smallest-even-multiple](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
