@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0961-long-pressed-name) |
 | [1894-merge-strings-alternately](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0812-rotate-string) |
