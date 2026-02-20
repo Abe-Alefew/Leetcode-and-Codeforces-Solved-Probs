@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
+| [0761-special-binary-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0761-special-binary-string) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0874-backspace-string-compare) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0761-special-binary-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0761-special-binary-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
+| [0761-special-binary-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0761-special-binary-string) |
 ## Union Find
 |  |
 | ------- |
