@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0367-valid-perfect-square) |
 | [0598-range-addition-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0633-sum-of-square-numbers) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0461-hamming-distance) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0367-valid-perfect-square) |
