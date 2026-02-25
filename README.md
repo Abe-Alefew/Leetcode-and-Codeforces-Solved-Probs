@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2058-concatenation-of-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2206-detonate-the-maximum-bombs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2239-find-closest-number-to-zero](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2239-find-closest-number-to-zero) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1500-count-largest-group) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
