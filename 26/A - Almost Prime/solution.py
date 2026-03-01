@@ -1,0 +1,1 @@
+n = int(input())  count = [0 for i in range(n+1)] for i in range(2, n+1):    if count[i] == 0:        #it is prime        for j in range(i,n+1,i):            count[j] +=1 answer = 0for i in range(n+1):    if count[i] == 2:        answer +=1 print(answer)
