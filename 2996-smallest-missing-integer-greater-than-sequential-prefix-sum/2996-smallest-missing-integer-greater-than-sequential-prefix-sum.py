@@ -1,13 +1,13 @@
 class Solution:
     def missingInteger(self, nums: List[int]) -> int:
-        countSum = nums[0]
-        for i in range(1, len(nums)):
-            if nums[i - 1] + 1 == nums[i]:
-                countSum += nums[i]
-            else:
-                break
-        nums.sort()
-        for i in range(len(nums)):
-            if countSum == nums[i]:
-                countSum += 1
-        return countSum
+        
+        ans = nums[0]
+
+        for n1, n2 in pairwise(nums):
+
+            if n2 - n1 == 1:  ans+= n2
+            else: break
+        
+        while ans in nums:  ans+= 1
+
+        return ans
