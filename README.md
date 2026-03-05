@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0290-word-pattern) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
