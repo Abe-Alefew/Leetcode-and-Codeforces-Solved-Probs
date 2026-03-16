@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0696-count-binary-substrings) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0451-sort-characters-by-frequency) |
 | [0690-employee-importance](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0690-employee-importance) |
 | [0753-open-the-lock](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0451-sort-characters-by-frequency) |
 | [0761-special-binary-string](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0761-special-binary-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/2331-intersection-of-multiple-arrays) |
@@ -639,4 +643,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abe-Alefew/LeetcodeProbs/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
